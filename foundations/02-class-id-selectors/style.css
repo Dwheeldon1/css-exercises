@@ -1,0 +1,16 @@
+p {
+    font-family: 'verdana', 'DejaVu Sans', 'sans-serif';
+    background-color: pink;
+
+}
+
+.first {
+    color: blue;
+    font-size: 36px;
+}
+
+.second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
